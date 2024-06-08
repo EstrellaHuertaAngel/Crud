@@ -23,3 +23,16 @@
   "author": "",
   "license": "ISC"
 }
+{
+    "node": ">=18.12.0",
+    "pnpm": "^7.0.0"
+  },
+  "scripts": {
+    "start": "your-start-command",
+    "dev": "your-dev-command"
+  },
+  "dependencies": {
+    "your-dependency": "^1.0.0"
+  }
+}
+
